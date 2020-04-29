@@ -1,8 +1,8 @@
-title: "Course Project 1_ Surina Singh"
-author: "Surina Singh"
-date: "29/04/2020"
-dataset:  "Electric power consumption"
-Figures: "Figure repo"
+### Title: Course Project 1_ Surina Singh
+### Author: Surina Singh
+### Date: 29/04/2020
+### Dataset:  "Electric power consumption"
+### Figures: See "Figure" folder
 
 ## Introduction
 
